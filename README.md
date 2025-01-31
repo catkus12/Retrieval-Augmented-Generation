@@ -1,5 +1,5 @@
 # Retrieval-Augmented-Generation
-# Reflection on Wikipedia Query Program
+## Reflection on Wikipedia Query Program
 
 ## Document Queried
 **Name:** Wikipedia Page for Laufey  
@@ -115,8 +115,3 @@ The **generated responses were correct** for all the test questions. The program
    > Her second album, *Bewitched*, was released on 8 September 2023 and won a Grammy Award...  
 3. **Similarity: 0.3557**  
    > Laufey rose to prominence as a jazz-inspired pop artist in the early 2020s...  
-
----
-
-## **Conclusion**
-This program successfully retrieved relevant text from Laufey's Wikipedia page and generated **accurate** responses using **AI-powered retrieval and text generation**. While effective, improvements such as **continuous querying** and **expanded dataset coverage** could further enhance the experience.

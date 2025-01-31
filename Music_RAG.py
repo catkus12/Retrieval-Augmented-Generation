@@ -20,7 +20,7 @@ def read_and_split_file(filename):
         return []
     except Exception as e:
         print(f"An error occurred: {e}")
-        return []
+        return [] 
 
 def generate_embeddings(chunks):
     """
